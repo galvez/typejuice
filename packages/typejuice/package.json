@@ -1,0 +1,29 @@
+{
+  "name": "typejuice",
+  "version": "0.0.1",
+  "description": "Godoc-like documentation generation from TypeScript Declaration Files",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galvez/typejuice.git"
+  },
+  "keywords": [
+    "typescript",
+    "vite",
+    "markdown",
+    "documentation"
+  ],
+  "author": "Jonas Galvez <jonasgalvez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galvez/typejuice/issues"
+  },
+  "homepage": "https://github.com/galvez/typejuice#readme",
+  "dependencies": {
+    "typescript": "^4.5.2",
+    "word-wrap": "^1.2.3"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "module",
+  "name": "vite-plugin-typejuice",
+  "version": "0.0.1",
+  "description": "Vite plugin for loading typejuice docs into Markdown files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galvez/typejuice.git"
+  },
+  "keywords": [
+    "vite",
+    "vite-plugin",
+    "markdown",
+    "typescript",
+    "documentation"
+  ],
+  "author": "Jonas Galvez <jonasgalvez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galvez/typejuice/issues"
+  },
+  "homepage": "https://github.com/galvez/typejuice#readme",
+  "dependencies": {
+    "typejuice": "^0.0.1"
+  }
+}
